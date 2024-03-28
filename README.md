@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janya282
 - 👀 I’m interested in expanding my coding knowledge 
-- 🌱 I’m currently learning Java, HTML and CSS
+- 🌱 I’m currently learning Java, HTML/CSS
 - 😄 Pronouns: sher/her
 
 <!---
