@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Janya282
-- 😄 Knowledge in python, Java, Javescript, SQL
+- 😄 Python, Java, Javascript, HTML/CSS, SQL
 - ✨ Currently learning C
 
 <!---
