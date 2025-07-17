@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Janya282
 - 😄 Python, Java, Javascript, HTML/CSS, SQL
-- ✨ Currently learning C
 
 <!---
 Janya282/Janya282 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
